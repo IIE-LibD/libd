@@ -11,15 +11,16 @@ Operating system:
 Running environment:
     Python 2.7
 
-LibD depends on two decompiling tools: 
-    Apktool
-    Androguard
+LibD depends on two decompiling tools:   
+    Apktool  
+    Androguard  
 
 ###Use LibD:
 In the terminal, use the command line below: 
 ```bash
 $ python libd_v_xxx.py _path/to/APK/file_ _path/to/decompilation/output/dir_ _library/instances/list/file_
 ```
+(The First parameter is the APK file that wanted to be analyzed, the second parameter is pre-created decompiling folder, the third parameter is the name of the output file that would contain libraries instances in the APK, which could be named by the user in the command line.)  
 or modify the script to fit your purposes.
 
 The first input parameter is the path to your apk file.  
