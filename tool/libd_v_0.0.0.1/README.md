@@ -1,7 +1,7 @@
 README
 ------
 ##LibD Version 0.0.0.1
-This version is a raw prototype of the LibD of the system level.
+This version is an abbreviated raw prototype of the LibD.
 It provides the basic analysis functionality to get the potential library instances and their correspoding features.
 After comparing with the libreary lists in /liblist dir, the potential libraries would be picked out.
 ###Pre-install
