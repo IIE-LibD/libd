@@ -1,7 +1,6 @@
 README
 ------
-## Ground Truth
-This sub-directory matches the Section IV-C of the corresponding paper.  
-"groundtruth.txt" is the libraries that we extracted from the 1000 sample apps manually.  
-Folder "/libD" contains the total libraries that LibD has found in the 1,000 samples and comparison result with the groundtruth.  
-Folder "/libRadar" contains the total libraries that LibRadar has found in the 1,000 samples and the comparison result with the groundtruth.  
+## Libraries list
+This sub-directory matches the Section IV-A of the corresponding paper.  
+It contains the libraries list of different thresholds which variant from 10 to 50.  
+In the sub-folder of "manuallyappraoch", we list the 72 libraries in the whitelist of Chen's research in "Achieving Accuracy and Scalability Simultaneously in Detecting Application Clones on Android Markets".  
