@@ -1,5 +1,7 @@
+README
+------
 ## Ground Truth
-This Project has the following contributions:
-First, it provides a novel Android third-party libraries detection tool, LibD.  
-Second, it contains a library list that we have found in our research.  
-Third, it contains the experimental results in our evaluation.  
+This sub-directory matches the Section IV-C of the corresponding paper.  
+"groundtruth.txt" is the libraries that we extracted from the 1000 sample apps manually.  
+Folder "/libD" contains the total libraries that LibD has found in the 1,000 samples and comparison result with the groundtruth.  
+Folder "/libRadar" contains the total libraries that LibRadar has found in the 1,000 samples and the comparison result with the groundtruth.  
