@@ -2,7 +2,7 @@ README
 ------
 ###LibD Version 0.0.1
 This system is stand-alone version of LibD. As full version of LibD is running on Openstack platform with concurrency scheduler and DataBase(MySQL) manager, we eliminate these modules for a stand-alone version. 
-For a given Android Application, this version computes the potential library instances and their corresponding features as the output. You can pick out potential libraries by manually comparing LibD's output with library lists in /liblist dir.
+For a given Android application, this version computes the potential library instances and their corresponding features as the output. You can pick out potential libraries by manually comparing LibD's output with library lists in /liblist dir.
 
 ###Pre-install
 Operating system:
