@@ -1,8 +1,8 @@
 README
 ------
-###LibD Version 0.0.1
-This system is stand-alone version of LibD. As full version of LibD is running on Openstack platform with concurrency scheduler and DataBase(MySQL) manager, we eliminate these modules for a stand-alone version. 
-For a given Android Application, this version computes the potential library instances and their corresponding features as the output. You can pick out potential libraries by manually comparing LibD's output with library lists in /liblist dir.
+##LibD Version 0.0.1
+This system is stand-alone version of LibD. As full version of LibD is running on Openstack platform with concurrency scheduler and DataBase(MySQL) manager, we eliminate these modules for a stand-alone version.  
+For a given Android Application, this version computes the potential library instances and their corresponding features as the output. You can pick out potential libraries by manually comparing LibD's output with library lists in /liblist dir.  
 
 ###Pre-install
 Operating system:
@@ -11,8 +11,8 @@ Operating system:
 General requirement:  
     (1) Python 2.7  
     (2) OpenJDK 1.7.0 or later  
-    (2) Apktool. http://ibotpeaches.github.io/Apktool/  
-    (3) Androguard. https://github.com/androguard/androguard  
+    (2) Apktool 2.0.0 or later. http://ibotpeaches.github.io/Apktool/  
+    (3) Androguard 1.9 or later. https://github.com/androguard/androguard  
 
 ###Use LibD:
 In the terminal, use the command line below:  
