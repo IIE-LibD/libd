@@ -5,6 +5,7 @@ Copyright (c) 2016, Menghao Li, Wei Wang, Pei Wang, Shuai Wang, Dinghao Wu, Jian
 If you have any problem when use LibD, please feel free to contact Menghao Li (limenghao@iie.ac.cn). 
 
 Replication Package submitted to ICSE-2017
+
 LibD: Scalable and Precise Third-party Library Detection in Android Markets
 
 
