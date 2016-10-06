@@ -658,3 +658,14 @@ com/example/okhttptest                  https://github.com/Moonant/mycps/tree/ma
 com/yuanyu/letingfm                     http://www.statsinfinity.com/domain/YAJSa9OgKljebiUo0SA3_Q.._info.html
 com/autonavi/aps                        http://lbs.amap.com/api/android-sdk/guide/creat-project/dev-attention/
 com/ccit/mmwlan                         http://www.ccit.com/
+org/openad/common                       https://www.opened.com/
+tv/cjump/jni                            https://github.com/Bilibili/DanmakuFlameMaster/tree/master/DanmakuFlameMaster/src/main/java/tv/cjump/jni
+org/dom4j/dtd                           http://dom4j.sourceforge.net/dom4j-1.6.1/apidocs/org/dom4j/dtd/package-frame.html
+com/blueware/agent                      http://stackoverflow.com/questions/39010863/application-interceptor-com-blueware-agent-android-instrumentation-okhttp3-d41c
+antlr/preprocessor                      http://www.antlr2.org/javadoc/antlr/preprocessor/package-summary.html
+com/economics168/entity                 http://app.mi.com/details?id=com.economics168
+com/skymobi/pay                         http://en.sky-mobi.com/
+com/baiwang/frame                       http://baiwang.com/
+com/yougoumai/background_service        http://www.yougoumai.com/
+com/keepc                               http://www.coolapk.com/apk/com.keepc
+com/layout                              http://masonry.desandro.com/layout.html
