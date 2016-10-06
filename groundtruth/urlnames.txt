@@ -648,3 +648,13 @@ rajawali/util                           https://github.com/Rajawali/Rajawali-Cop
 com/momo/yic                            http://www.itmo.com/momo/
 com/j256/ormlite                        https://github.com/j256/ormlite-android
 com/renn/sharecomponent                 http://01hackcode.com/details/07ab3bf25ab1551cc15f99abf4046c0c/
+com/yyproto/db                          https://github.com/decimalbell/muduo-yyproto/tree/master/yyproto
+SevenZip/Compression/LZ                 http://env3d.sourceforge.net/javadoc/SevenZip/Compression/LZ/package-frame.html
+com/linecorp/mobilesec                  http://ideone.com/fork/rKhUoS
+cn/pedant/SweetAlert                    https://github.com/pedant/sweet-alert-dialog/tree/master/library/src/main/java/cn/pedant/SweetAlert
+com/thinkland/sdk                       http://www.programcreek.com/java-api-examples/index.php?api=com.thinkland.sdk.android.JuheData
+com/umeng/socialize                     http://dev.umeng.com/social/android/operation
+com/example/okhttptest                  https://github.com/Moonant/mycps/tree/master/OkHttpTest/src/main/java/com/example
+com/yuanyu/letingfm                     http://www.statsinfinity.com/domain/YAJSa9OgKljebiUo0SA3_Q.._info.html
+com/autonavi/aps                        http://lbs.amap.com/api/android-sdk/guide/creat-project/dev-attention/
+com/ccit/mmwlan                         http://www.ccit.com/
