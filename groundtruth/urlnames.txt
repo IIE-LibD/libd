@@ -598,3 +598,13 @@ com/tencent/qc                          http://users.wallpaperssky.com/Custom/Pl
 com/baidu/mapapi                        http://developer.baidu.com/map/android_refer/com/baidu/mapapi/map/package-tree.html
 com/cmdm/pushSdk                        https://www.qcloud.com/doc/product/269/3899
 com/wiyun/game                          http://www.wiyun.com/
+com/tencent/qzone                       http://qzone.qq.com/
+com/yunos/baseservice                   http://blog.sina.com.cn/s/blog_622fd4a20102wgtl.html
+com/unity3d/ads                         https://unity3d.com/cn/services/ads
+com/mradar/sdk                          https://github.com/radar
+com/heyzap/house                        https://developers.heyzap.com/docs/android_sdk_setup_and_requirements
+com/etsy/android                        https://github.com/etsy/AndroidStaggeredGrid/tree/master/library/src/main/java/com/etsy/android
+com/qihoo/appstore                      http://zhidao.baidu.com/question/501052989.html
+cn/paypalm/protocol                     https://www.paypalm.cn/home.html
+com/catstudio/littlesoldiers            http://www.androidappsgame.com/apk/?id=com.catstudio.littlesoldiers
+com/iring/rpc                           http://www.iring.com/
