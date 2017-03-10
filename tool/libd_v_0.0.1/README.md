@@ -12,7 +12,7 @@ General requirement:
     (1) Python 2.7  
     (2) OpenJDK 1.7.0 or later  
     (3) Apktool 2.0.0 or later. http://ibotpeaches.github.io/Apktool/  
-    (4) Androguard 1.9 or later. https://github.com/androguard/androguard  
+    (4) Androguard 1.9. https://github.com/androguard/androguard  
 ###Use LibD:
 In the terminal, use the command line below:  
 
