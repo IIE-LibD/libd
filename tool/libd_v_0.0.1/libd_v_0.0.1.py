@@ -243,7 +243,12 @@ def method_info_index(apk_vm_serial, output):
                         dvmopcode = templine[:rightposition]
                     #print dvmopcode
                     method_opcode_str += dvmopcode
-                    
+            # =============================================================================================
+            # the calculation code of the method hash does not fit the discription in our paper.
+            # It is my fault, i mistakenly mixed our alpha version code and final version together
+            # I will search our server and fix it as soon as possible
+            # --Thanks to Arash Vahidi--
+            # ==============================================================================================
     
             #compute the Hash value of each method
             methodmd5 = hashlib.md5()
